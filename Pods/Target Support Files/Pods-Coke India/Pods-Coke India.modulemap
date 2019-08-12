@@ -1,0 +1,6 @@
+framework module Pods_Coke_India {
+  umbrella header "Pods-Coke India-umbrella.h"
+
+  export *
+  module * { export * }
+}
